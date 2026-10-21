@@ -1,0 +1,30 @@
+.newsCard {
+  overflow: hidden;
+  min-width: 0;
+  background: white;
+  border-radius: 8px;
+}
+
+.cardImage {
+  display: block;
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+}
+
+.newsContent {
+  padding: 16px;
+}
+
+.newsContent h2 {
+  margin: 0 0 6px;
+  font-size: 15px;
+  font-weight: 700;
+  color: black;
+}
+
+.newsContent p {
+  margin: 0;
+  font-size: 12px;
+  font-weight: 400;
+}
