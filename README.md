@@ -28,10 +28,10 @@ You need [Node.js](https://nodejs.org/) installed.
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/nikhilkumar0224/YOUR-REPO-NAME.git
+git clone https://github.com/nikhilkumar0224/marketing-association-news-page.git
 
 # 2. Go into the project folder
-cd YOUR-REPO-NAME
+cd marketing-association-news-page
 
 # 3. Install dependencies
 npm install
